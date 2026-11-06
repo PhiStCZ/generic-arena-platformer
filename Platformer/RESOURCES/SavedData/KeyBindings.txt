@@ -1,0 +1,7 @@
+Left 71
+Right 72
+Down 74
+Jump 18
+Dash 22
+Shoot 3
+DebugData 85

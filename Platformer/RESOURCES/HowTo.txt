@@ -1,0 +1,27 @@
+Welcome to Generic Arena Platformer (or G.A.P.)!
+
+Move around using the left and right arrow keys.
+
+Jump using the 'S' key. Hold the key to jump higher.
+Press 'S' in the air to double jump.
+
+While in the air, press the down arrow key to dive.
+
+Shoot a single-damage bullet using the 'D' key.
+
+Dash using the 'W' key. You are invulnerable while dashing.
+Dash through your enemies for triple damage.
+
+Press 'F1' for extra debug info.
+Double tap  the 'Escape' key to quit.
+
+NOTE : the mentioned keybinds are configurable in the menu.
+
+
+Enemies will spawn in the arena in waves.
+Survive each wave of enemies to win the game.
+
+You start with 5 health. Each killed enemy will heal you
+for 1 damage, but not past your health limit - 10 HP.
+
+Have fun!
